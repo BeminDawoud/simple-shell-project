@@ -1,4 +1,4 @@
-# Our Version for a Simple Shell Project
+# My Version of a Simple Shell Project
 
 ## Overview
 
