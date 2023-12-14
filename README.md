@@ -14,8 +14,3 @@ interactive mode: `$ ./shell`
 
 non-interactive mode: `$ echo "ls" | ./shell`
 
-## Authors
-
-Bemin Dawoud - https://github.com/BeminDawoud
-
-Toqa Hosney- https://github.com/toqahosney
